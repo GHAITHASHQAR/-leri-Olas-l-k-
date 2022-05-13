@@ -5,3 +5,4 @@ BLM517 - Ayrık Sistemler İçin İleri Olasılık Dersi Ödev ve Uygulamaları
 ## 3.Kombinasyon 
 ## 4.Temel olasilik 
 ## 5.Koşullu Olasılık ve Bayes Teoremi 
+## 6.Probability mass function (Olasılık kütle fonksiyonu)
